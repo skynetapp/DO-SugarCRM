@@ -7,16 +7,25 @@
   ![login](https://cloud.githubusercontent.com/assets/22937653/22506035/4b15c88e-e8a4-11e6-83d5-c20b10862a85.PNG)
   
 #### Step 2:
-  Create a droplet by clicking on the butto which can be seen at the top right. The options are selected automatically, so we need to just click on the create button at the end.
+  Create a droplet by clicking on the button which can be seen at the top right after login. The options are selected automatically, so we need to just click on the create button at the end.
+  
+  ![droplet](https://cloud.githubusercontent.com/assets/22937653/22507714/db6e21c6-e8ac-11e6-93f2-72d55389f029.PNG)
+  ![create-droplet](https://cloud.githubusercontent.com/assets/22937653/22507743/f9c9794a-e8ac-11e6-8b30-527f50ccc8d5.PNG)
   
 #### Step 3:
   Here the droplet will be created with unique IP address and we will get a mail with the Droplet Name,IP address,username and password. 
   
+  ![droplet-creating](https://cloud.githubusercontent.com/assets/22937653/22507807/3e93a4ec-e8ad-11e6-9296-4a096f2fe8ed.PNG)
+  
 #### Step 4:
   Log into putty using the IP address.
   
+  ![putty-login](https://cloud.githubusercontent.com/assets/22937653/22507830/545e09b6-e8ad-11e6-8aa1-770bc8ca312d.PNG)
+  
 #### Step 5:
   Login as **root** and the password will be in the received mail id. click enter.
+  
+  ![putty-afterlogin](https://cloud.githubusercontent.com/assets/22937653/22507847/66a250aa-e8ad-11e6-8819-9297f828b5d6.PNG)
   
 #### Step 6:
   putty will be asking for the entered password and we can change the password for our droplet.
