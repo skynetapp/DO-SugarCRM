@@ -68,7 +68,8 @@
     
 ```
    - To test the mysql commands, the following command is used.
- ```
+   
+```
     mysql -u root -p
     
 ```  
