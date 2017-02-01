@@ -9,7 +9,6 @@
 ### Step 2:
   Create a droplet by clicking on the button which can be seen at the top right after login. The options are selected automatically, so we need to just click on the create button at the end.
   
-  ![droplet](https://cloud.githubusercontent.com/assets/22937653/22507714/db6e21c6-e8ac-11e6-93f2-72d55389f029.PNG)
   ![create-droplet](https://cloud.githubusercontent.com/assets/22937653/22507743/f9c9794a-e8ac-11e6-8b30-527f50ccc8d5.PNG)
   
 ### Step 3:
@@ -163,7 +162,7 @@
    
 ![final](https://cloud.githubusercontent.com/assets/22937653/22508449/0cfbce7a-e8b0-11e6-9357-737d6c797c18.PNG)
 
-   - Login page can be seen, which we need to give the username and password which we have given at the time of Database configuration.
+   - Login page can be seen, which we need to give the username and password. The login details were given at the time of site configuration process.
 
    - The Installation of sugar set up is completed.
    
