@@ -4,6 +4,8 @@
 #### Step 1:
   Login to the DigitalOcean with your email and password. Link: https://cloud.digitalocean.com/login
   
+  ![login](https://cloud.githubusercontent.com/assets/22937653/22506035/4b15c88e-e8a4-11e6-83d5-c20b10862a85.PNG)
+  
 #### Step 2:
   Create a droplet by clicking on the butto which can be seen at the top right. The options are selected automatically, so we need to just click on the create button at the end.
   
